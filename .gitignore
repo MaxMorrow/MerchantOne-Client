@@ -3,3 +3,12 @@
 ################################################################################
 
 /MerchantOne.Api/.vs/MerchantOne
+/MerchantOne.Api/MerchantOne.Api/bin/Debug/netcoreapp3.1
+/MerchantOne.Api/MerchantOne.Api/obj
+/MerchantOne.Api/MerchantOne.Tests/bin/Debug/netcoreapp3.1
+/MerchantOne.Api/MerchantOne.Tests/obj
+/MerchantOne/.vs/MerchantOne
+/MerchantOne/MerchantOne/bin/Debug/netcoreapp3.1
+/MerchantOne/MerchantOne/obj
+/MerchantOne/MerchantOne.Tests/bin/Debug/netcoreapp3.1
+/MerchantOne/MerchantOne.Tests/obj
